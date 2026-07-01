@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Apera5\\Videos\\AsphaApera2026\\Titan\\Titan.csproj": {}
+    "C:\\Users\\Apera5\\Videos\\AsphaApera2026\\titan\\Titan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Apera5\\Videos\\AsphaApera2026\\Titan\\Titan.csproj": {
+    "C:\\Users\\Apera5\\Videos\\AsphaApera2026\\titan\\Titan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Apera5\\Videos\\AsphaApera2026\\Titan\\Titan.csproj",
+        "projectUniqueName": "C:\\Users\\Apera5\\Videos\\AsphaApera2026\\titan\\Titan.csproj",
         "projectName": "Titan",
-        "projectPath": "C:\\Users\\Apera5\\Videos\\AsphaApera2026\\Titan\\Titan.csproj",
+        "projectPath": "C:\\Users\\Apera5\\Videos\\AsphaApera2026\\titan\\Titan.csproj",
         "packagesPath": "C:\\Users\\Apera5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Apera5\\Videos\\AsphaApera2026\\Titan\\obj\\",
+        "outputPath": "C:\\Users\\Apera5\\Videos\\AsphaApera2026\\titan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Apera5\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -44,9 +44,9 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[10.0.0, )"
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
